@@ -1,0 +1,6 @@
+body, html { margin: 0; padding: 0; height: 100%; }
+table { width: 100%; height: 100%; border-collapse: collapse; }
+td { text-align: left; padding: 10px; }
+.box1 { background: lightblue; } 
+.box2 { background: lightgreen; }
+@media (max-width: 600px) { td { font-size: 18px; } }

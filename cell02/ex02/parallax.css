@@ -1,0 +1,17 @@
+body, html { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+
+.parallax {
+    height: 100vh; display: flex; align-items: center; justify-content: center;
+    color: white; font-size: 2em; text-align: center; font-weight: bold;
+    background-attachment: fixed; background-position: center; background-size: cover;
+}
+
+.bg1 { 
+    background-image: url("https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2456420/capsule_616x353.jpg?t=1734658894"); 
+}
+
+.bg2 { 
+    background-image: url("https://play-lh.googleusercontent.com/dcQHmbD4Qjmsg1kp8NvWEzWe-h8pLDe8qekSFtpJb9Cue2mZS0kMizDBsV8iq-6OI5pM31l92kfwHsp2bw"); 
+}
+
+.content { background: black; color: white; padding: 50px; text-align: center; }
