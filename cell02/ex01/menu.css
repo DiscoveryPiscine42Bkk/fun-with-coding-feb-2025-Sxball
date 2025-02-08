@@ -6,9 +6,9 @@ body {
 
 .menu {
     background: #8B5A2B; 
-    padding: 20px;  /* ลด padding ให้ขนาดเล็กลง */
+    padding: 20px;
     border-radius: 10px;
-    display: inline-block; /* ให้กรอบแคบลงตามขนาดเนื้อหา */
+    display: inline-block;
 }
 
 .menu ul {
